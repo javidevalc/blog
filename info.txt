@@ -1,0 +1,3 @@
+DB_DATABASE=square1blog
+DB_USERNAME=square1
+DB_PASSWORD=square1
