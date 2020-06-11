@@ -6,3 +6,4 @@ DB_PASSWORD=square1
 Original Folder name is 'square1blog'
 
 
+javi@admin.com//password
